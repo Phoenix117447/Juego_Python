@@ -14,3 +14,4 @@ Este es un simple juego de disparos creado con Pygame. El objetivo es sobrevivir
 - Meteoritos que caen del cielo.
 - Explosiones al destruir un meteorito.
 - Sistema de puntuación.
+- Menu practico para el usuario
